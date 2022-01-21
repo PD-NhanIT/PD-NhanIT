@@ -42,7 +42,7 @@ namespace PDN
     <img src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg" alt="DevTo" height="30" width="30">
   </a>
 	
-  <a href="https://www.linkedin.com/in/ngoctientnt/">
+  <a href="https://www.linkedin.com/in//">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Linkedin" height="30" width="30">
   </a>
   
@@ -54,7 +54,7 @@ namespace PDN
     <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" height="30" width="30">
   </a>
   
-  <a href="https://www.tiktok.com/@/">
+  <a href="https://www.tiktok.com/@nhanka2308/">
     <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/tiktok-icon.svg" alt="TikTok" height="30" width="30">
   </a>
   
