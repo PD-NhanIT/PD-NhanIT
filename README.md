@@ -150,11 +150,11 @@ namespace PDN
 
 ## <p align="center">Profile stats :musical_keyboard:</p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ngoctienTNT&show_icons=true&theme=tokyonight" alt="ngoctienTNT :: Profile Stats" /></p>
+<!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ngoctienTNT&show_icons=true&theme=tokyonight" alt="ngoctienTNT :: Profile Stats" /></p> -->
 
 ## <p align="center">Repository pin 📌</p>
 
-<p align="center">	
+<!-- <p align="center">	
 <a href="https://github.com/ngoctienTNT/GiveLoveTNT">
 	<img src="https://github-readme-stats.vercel.app/api/pin/?username=ngoctienTNT&repo=GiveLoveTNT&theme=tokyonight" alt="ngoctienTNT" />
 </a>
@@ -172,16 +172,16 @@ namespace PDN
 <a href="https://github.com/ngoctienTNT/ngoctien.TNT">
 	<img src="https://github-readme-stats.vercel.app/api/pin/?username=ngoctienTNT&repo=ngoctien.TNT&theme=tokyonight" alt="ngoctienTNT" />
 </a>
-</p>
+</p> -->
 
-## <p align="center">Github Contributions 📈</p>
+<!-- ## <p align="center">Github Contributions 📈</p>
 <br>
 <p align='center'>
 <img src="https://activity-graph.herokuapp.com/graph?username=ngoctienTNT&theme=react-dark&hide_border=true">
 <p>
 
 <hr>
-<br>
+<br> -->
 
 ## <p align="center">Just a snake eating my contributions 🐍</p>
 <p align='center'>
