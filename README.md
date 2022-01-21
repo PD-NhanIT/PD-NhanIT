@@ -1,4 +1,4 @@
-# <p align="center">Phạm Đức </p>
+# <p align="center">Phạm Đức Nhân</p>
 
 <p align="center">
 	<a href="https://github.com/PD-NhanIT">
